@@ -1,9 +1,0 @@
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/__init__.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/b4db89680ad98f4303f20432b27e100a.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/assertions.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/600d338b92a0e5e542a5f6e1b8d7a4d6.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/coffin_patches.pyco > e1b9518a623e60d5626a669f840762fe
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/csrf.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/63b08afafbec4b9c90bab1bf93d2a4ac.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/django_patches.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/dd26fce07f068ca9bd2a5d47f2f035f3.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/feed.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/c0274fb9eebeea5e72455a66ac5775b8.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/package_utils.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/41ea4f4b0b445bd3f947c50a475403e0.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/path_utils.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/2cde095211c144d92a9b8b5819f6914b.pyc
-./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/template_loader.pyco > ./server/scripts/8691d4a7cb721e510ef8d6cff5d60784/b36fee5ba68f7f60c5519093f7cf4172.pyc
