@@ -1,0 +1,10 @@
+./server/scripts/test_cache.pyco > ./server/scripts/8d11afb0b4c08e8364947c204e465945.pyc
+./server/scripts/test_email_alerts.pyco > ./server/scripts/cd12662d9f2f9f31d84a0db910e0f77e.pyc
+./server/scripts/test_forms.pyco > ./server/scripts/9aa3fc99cf95d7ed6207643a25dfeef9.pyc
+./server/scripts/test_misc.pyco > 747f5581581e631531f396ca5ff34fb2
+./server/scripts/test_on_screen_notifications.pyco > ./server/scripts/d27c69d2fef8875fb6f259457f06f878.pyc
+./server/scripts/test_page_load.pyco > ./server/scripts/c48e0fb8209086082fe39fc60df41a6f.pyc
+./server/scripts/test_question_views.pyco > ./server/scripts/184861f336d937df62275837fd5d044a.pyc
+./server/scripts/test_user_model.pyco > ./server/scripts/4f295e77316acb58153858a5eb4731ee.pyc
+./server/scripts/test_utils.pyco > ./server/scripts/21aa247359686eabf69bdcfb3b04ae90.pyc
+./server/scripts/utils.pyco > ./server/scripts/3d009051a723e9699edf958d46102e63.pyc
